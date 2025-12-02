@@ -1,11 +1,15 @@
 import React from "react";
 let ClickMeButton=()=>{
+ let But=()=>{
     alert("button was clicked")
-    return (
+    
+    
+}
+return (
         <div>
-            <button onClick={ClickMeButton}>Click ME</button>
+            <button onClick={But}>Click ME</button>
         </div>
     )
-    
+
 }
 export default ClickMeButton

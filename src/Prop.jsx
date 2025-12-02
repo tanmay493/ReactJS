@@ -17,7 +17,8 @@ let App=()=>{
             <h1>This is Props</h1>
             {/* <Child myname="Tanmay" age={25}/> */}
             {/* <Child myname={name} myage={age}/> */}
-             <Child myname="prashant" myage={42}/>
+            <Child myname="prashant" myage={42}/>
+
 
 
         </>
